@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
@@ -14,6 +14,9 @@
   <a href="https://leetcode.com/Azeemudeen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
+  <a href="mailto:@azeemudeen101@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=D14836&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Azeemudeen from India.<br><br>- 🎓 I’m currently pursuing MCA<br>- 📚 I'm learning to build Microservices with SpringBoot now (exciting stuff)<br>- ⚡ In my free time I like to go for walk</p>
+<p align="left">I'm Azeemudeen from India.<br><br>- 🎓 I’m currently pursuing MCA<br>- 📚 I'm learning to build Microservices with SpringBoot now (exciting stuff)<br>- 📩 Reach me at <a href="mailto:@azeemudeen101@gmail.com">@azeemudeen101@gmail.com</a><br>- 📄 Know more about me https://rxresu.me/r/6Gc3boMx</p>
 
 ###
 
